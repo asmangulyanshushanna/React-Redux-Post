@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`posts form component should render and match a stapshot 1`] = `ShallowWrapper {}`;
